@@ -10,3 +10,5 @@ The talk content covers the all the important concepts that one needs to know ab
 http://gnunify.in/node/4672
 
 [Presentation](https://speakerdeck.com/rowdymehul/rust-techie-talks-at-gnunify-2018)
+
+For any queries raise a [issue](https://github.com/rowdymehul/GNUnify-2018/issues) and please feel free to submit a PR anytime :)
